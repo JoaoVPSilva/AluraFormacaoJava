@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Alura.iml" filepath="$PROJECT_DIR$/.idea/Alura.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bytebank/bytebank.iml" filepath="$PROJECT_DIR$/bytebank/bytebank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bytebankComposto/bytebankComposto.iml" filepath="$PROJECT_DIR$/bytebankComposto/bytebankComposto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bytebankEncapsulado/bytebankEncapsulado.iml" filepath="$PROJECT_DIR$/bytebankEncapsulado/bytebankEncapsulado.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bytebank_heranca/bytebank_heranca.iml" filepath="$PROJECT_DIR$/bytebank_heranca/bytebank_heranca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bytebank_heranca_conta/bytebank_heranca_conta.iml" filepath="$PROJECT_DIR$/bytebank_heranca_conta/bytebank_heranca_conta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sintaxe-basica/sintaxe-basica.iml" filepath="$PROJECT_DIR$/sintaxe-basica/sintaxe-basica.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sintaxe-variaveis-e-fluxo/sintaxe-variaveis-e-fluxo.iml" filepath="$PROJECT_DIR$/sintaxe-variaveis-e-fluxo/sintaxe-variaveis-e-fluxo.iml" />
+    </modules>
+  </component>
+</project>
