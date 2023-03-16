@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6a2213b4-8b30-47ae-9d27-44f6d09ea0bc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Alura/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Alura/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Alura/Excecoes/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Alura/bytebank_heranca/src/Administrador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Alura/bytebank_heranca/src/AutenticacaoUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Alura/bytebank_heranca/src/Autenticavel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Alura/bytebank_heranca/src/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Alura/bytebank_heranca/src/SistemaInterno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Alura/bytebank_heranca/src/TesteSistema.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Alura/bytebank_heranca_conta/src/SaldoInsuficienteexception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Alura/javaPilha.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Alura/.idea/Alura.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Alura/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Alura/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Alura/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Alura/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Alura/bytebank_heranca/src/EditorDeVideos.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Alura/bytebank_heranca/src/EditorDeVideos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Alura/bytebank_heranca/src/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Alura/bytebank_heranca/src/Funcionario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Alura/bytebank_heranca/src/Gerente.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Alura/bytebank_heranca/src/Gerente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Alura/bytebank_heranca/src/TesteFuncionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Alura/bytebank_heranca/src/TesteFuncionario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Alura/bytebank_heranca/src/TesteGerente.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Alura/bytebank_heranca/src/TesteGerente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Alura/bytebank_heranca/src/TesteReferencias.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Alura/bytebank_heranca/src/TesteReferencias.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Alura/bytebank_heranca_conta/src/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Alura/bytebank_heranca_conta/src/Conta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Alura/bytebank_heranca_conta/src/ContaCorrente.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Alura/bytebank_heranca_conta/src/ContaCorrente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Alura/bytebank_heranca_conta/src/TesteContas.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Alura/bytebank_heranca_conta/src/TesteContas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Alura/out/production/bytebank_heranca/EditorDeVideos.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Alura/out/production/bytebank_heranca/EditorDeVideos.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Alura/out/production/bytebank_heranca/Funcionario.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Alura/out/production/bytebank_heranca/Funcionario.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Alura/out/production/bytebank_heranca/Gerente.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Alura/out/production/bytebank_heranca/Gerente.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Alura/out/production/bytebank_heranca/TesteFuncionario.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Alura/out/production/bytebank_heranca/TesteFuncionario.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Alura/out/production/bytebank_heranca/TesteGerente.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Alura/out/production/bytebank_heranca/TesteGerente.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Alura/out/production/bytebank_heranca/TesteReferencias.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Alura/out/production/bytebank_heranca/TesteReferencias.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2N5tJolWCjcL9gR4UW1RRnOhDvB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/desenv/Progress/Alura",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a2213b4-8b30-47ae-9d27-44f6d09ea0bc" name="Changes" comment="" />
+      <created>1678965701991</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678965701991</updated>
+      <workItem from="1678965703044" duration="20000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

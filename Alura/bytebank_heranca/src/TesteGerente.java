@@ -3,6 +3,9 @@ import java.util.SortedMap;
 public class TesteGerente {
 
     public static void main(String[] args) {
+
+        Autenticavel gerente = new Gerente();
+
         Gerente g1 = new Gerente();
         g1.setNome("Marco");
         g1.setCpf("1231232131");

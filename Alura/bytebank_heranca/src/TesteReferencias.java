@@ -7,13 +7,16 @@ public class TesteReferencias {
         g1.setNome("Marcos");
         g1.setSalario(5000.0);
 
-        Funcionario f = new Funcionario();
+        Funcionario f = new Gerente();
         f.setSalario(2000.0);
 
+        EditorDeVideos ev = new EditorDeVideos();
+        ev.setSalario(3000.0);
 
         ControleBonificacao controle = new ControleBonificacao();
         controle.registro(g1);
         controle.registro(f);
+        controle.registro(ev);
 
         System.out.println(controle.getSoma());
 
