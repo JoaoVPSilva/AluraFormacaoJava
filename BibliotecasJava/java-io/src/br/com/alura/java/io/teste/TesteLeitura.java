@@ -11,11 +11,17 @@ public class TesteLeitura {
 
         //Fluxo de Entrada com Arquivo
 
-        FileInputStream fis = new FileInputStream("lorem.txt");//Criando o fluxo de arquivo (Retorna Binario)
+        FileInputStream fis = new FileInputStream("java-io/lorem.txt");//Criando o fluxo de arquivo (Retorna Binario)
         InputStreamReader isr = new InputStreamReader(fis); //Melhorando os dados Binarios para caracerees
         BufferedReader br = new BufferedReader(isr); //Leitura de linha por linha
 
         String linha = br.readLine();
+
+        //Para ler todas as linhas do arquivo
+        while(linha != null){
+            System.out.println(linha);
+            linha = br.readLine();
+        }
 
         System.out.println(linha);
 
